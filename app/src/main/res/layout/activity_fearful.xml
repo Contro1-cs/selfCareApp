@@ -68,7 +68,7 @@
             android:text="Why do we actually feel fearful?" />
 
         <ImageView
-            android:id="@+id/ytSad"
+            android:id="@+id/ytFearful"
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:padding="15dp"

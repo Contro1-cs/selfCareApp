@@ -44,7 +44,7 @@
                 android:textSize="100sp" />
 
             <TextView
-                android:id="@+id/textView4"
+                android:id="@+id/describeFeeling"
                 android:layout_width="300dp"
                 android:layout_height="50dp"
                 android:layout_gravity="center"

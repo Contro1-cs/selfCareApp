@@ -15,11 +15,13 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
+import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
     private FirebaseAuth auth;
     private ImageView sadCard;
+    private TextView describeFeeling;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,8 +29,16 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         sadCard = findViewById(R.id.sadCard);
+        describeFeeling = findViewById(R.id.describeFeeling);
         Toolbar toolbar = findViewById(R.id.mainToolbar);
         setSupportActionBar(toolbar);
+
+        describeFeeling.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(MainActivity.this, profile.class));
+            }
+        });
 
 
         sadCard.setOnClickListener(new View.OnClickListener() {
