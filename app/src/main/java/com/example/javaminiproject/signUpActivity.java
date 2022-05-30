@@ -9,6 +9,7 @@ import android.telephony.SignalStrengthUpdateRequest;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.android.gms.tasks.OnCompleteListener;
@@ -16,9 +17,11 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 
+import org.w3c.dom.Text;
+
 public class signUpActivity extends AppCompatActivity {
 
-    private Button signUpBtn, rdLogin;
+    private TextView signUpBtn, rdLogin;
     private EditText signUpEmail, signUpPass;
     private FirebaseAuth mAuth;
 
@@ -54,7 +57,7 @@ public class signUpActivity extends AppCompatActivity {
                         @Override
                         public void onComplete(@NonNull Task<AuthResult> task) {
                             if (task.isSuccessful()) {
-                                startActivity(new Intent(signUpActivity.this, MainActivity.class));
+                                startActivity(new Intent(signUpActivity.this, signInActivity.class));
                                 Toast.makeText(signUpActivity.this, "Sign Up successfully!", Toast.LENGTH_SHORT).show();
                                 finish();
                             }else{

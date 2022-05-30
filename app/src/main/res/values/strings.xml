@@ -2,8 +2,8 @@
     <string name="app_name">JavaMiniProject</string>
     <string name="email">Email</string>
     <string name="pass">Password</string>
-    <string name="logIn">Log In</string>
-    <string name="signUp">Sign Up</string>
+    <string name="logIn">Login Account</string>
+    <string name="signUp">Create Account</string>
     <string name="askSignUp">New here? Sign Up</string>
     <string name="healthyMe">HEALTHY ME</string>
     <string name="logOut">Log Out</string>
@@ -11,5 +11,19 @@
     <string name="sad">SAD</string>
     <string name="askLogin">Already a uer? Log in</string>
     <string name="sadInfo">Being sad is different than being depressed even though it doesn’t sound so. A sad person knows the reason of his distress but a depressed person doesn’t. A sad person is: \n\n - I am sad because I failed the exams. \n\nHere an individual knows exactly that the source of his distress is failure in exams. To your surprise a depressed will be sad because of exams but would never be able to point out exactly what is his reason of distress which makes it even harder to deal with.</string>
+    <string name="home">Home</string>
+    <string name="how_do_you">How do you feel today?</string>
+    <string name="describe_your_feeling">Describe your feeling</string>
+    <string name="younoia">Younoia</string>
+    <string name="profile">Profile</string>
+    <string name="fearful">Fearful</string>
+    <string name="fedupcard">fed up card</string>
+    <string name="anxious">Anxious</string>
+    <string name="dull">Dull</string>
+    <string name="angry">Angry</string>
+    <string name="did_you_know">Did you know?</string>
+    <string name="fact_1">As per 2018, 1 in every 4 people \nreport having mental health\nproblems. Its now ok not to feel good temporarily</string>
+    <string name="_1_in_4">1 in 4</string>
+    <string name="hi_atharva_stay_hydrated">Hi Atharva! Stay hydrated</string>
 
 </resources>

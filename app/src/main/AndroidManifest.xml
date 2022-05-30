@@ -12,16 +12,25 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.JavaMiniProject">
         <activity
-            android:name=".profile"
+            android:name=".AngryPage"
             android:exported="false" />
         <activity
-            android:name=".anxious"
+            android:name=".DullPage"
             android:exported="false" />
         <activity
-            android:name=".fearful"
+            android:name=".AnxiousPage"
             android:exported="false" />
         <activity
-            android:name=".sad"
+            android:name=".FedUpPage"
+            android:exported="false" />
+        <activity
+            android:name=".FearfulPage"
+            android:exported="false" />
+        <activity
+            android:name=".SadPage"
+            android:exported="false" />
+        <activity
+            android:name=".ProfilePage"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

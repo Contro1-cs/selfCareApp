@@ -8,11 +8,12 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="gray">#696969</color>
-    <color name="blue">#005FF9</color>
-    <color name="orange3">#F8A43F</color>
-    <color name="orange2">#FAD937</color>
-    <color name="orange1">#F8FEA9</color>
-    <color name="blue1">#97F4EB</color>
-    <color name="blue2">#5FDBD4</color>
+    <color name="green_man">#63EB71</color>
+    <color name="howDoYouFeel_green">#D6FEC1</color>
+    <color name="card_green">#AFFFB5</color>
+    <color name="fact_blue">#C4FFFF</color>
+    <color name="light_blue">#EFFFFB</color>
+    <color name="floatingBar_blue">#5FDBD4</color>
+    <color name="dark_green">#319F39</color>
 
 </resources>
