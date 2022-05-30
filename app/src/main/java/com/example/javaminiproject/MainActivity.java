@@ -62,6 +62,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+
         //Redirecting to Anxious page
         anxiousCard.setOnClickListener(new View.OnClickListener() {
             @Override
