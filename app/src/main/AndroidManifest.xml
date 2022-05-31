@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.JavaMiniProject">
         <activity
+            android:name=".userDataCollection"
+            android:exported="false" />
+        <activity
             android:name=".AngryPage"
             android:exported="false" />
         <activity

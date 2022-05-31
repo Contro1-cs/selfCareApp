@@ -25,5 +25,11 @@
     <string name="fact_1">As per 2018, 1 in every 4 people \nreport having mental health\nproblems. Its now ok not to feel good temporarily</string>
     <string name="_1_in_4">1 in 4</string>
     <string name="hi_atharva_stay_hydrated">Hi Atharva! Stay hydrated</string>
+    <string name="phNumber">Phone number</string>
+    <string name="name">Name</string>
+    <string name="data">Enter you data</string>
+    <string name="full_name">Full name</string>
+    <string name="country">Country</string>
+    <string name="let_s_go">Let\'s go</string>
 
 </resources>

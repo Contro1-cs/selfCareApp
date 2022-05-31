@@ -25,9 +25,9 @@
         android:id="@+id/imageView4"
         android:layout_width="171dp"
         android:layout_height="250dp"
-        android:layout_marginTop="46dp"
+        android:layout_marginTop="72dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintHorizontal_bias="0.502"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView12"
         app:srcCompat="@drawable/signup_girl_witn_objects" />
@@ -36,15 +36,15 @@
         android:id="@+id/signUpEmail"
         android:layout_width="320dp"
         android:layout_height="50dp"
-        android:layout_marginTop="69dp"
+        android:layout_marginTop="76dp"
         android:background="@drawable/btn_background"
         android:ems="10"
         android:fontFamily="@font/yantramanav"
+        android:gravity="center_vertical"
         android:hint="@string/email"
         android:inputType="textEmailAddress"
         android:padding="15dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView4" />
 
@@ -52,10 +52,11 @@
         android:id="@+id/signUpPass"
         android:layout_width="320dp"
         android:layout_height="50dp"
-        android:layout_marginTop="25dp"
+        android:layout_marginTop="44dp"
         android:background="@drawable/btn_background"
         android:ems="10"
         android:fontFamily="@font/yantramanav"
+        android:gravity="center_vertical"
         android:hint="@string/pass"
         android:inputType="textPassword"
         android:padding="15dp"
@@ -67,13 +68,12 @@
         android:id="@+id/signUpBtn"
         android:layout_width="320dp"
         android:layout_height="50dp"
-        android:gravity="center"
+        android:layout_marginTop="48dp"
         android:background="@drawable/green_btn_background"
-        android:layout_marginTop="81dp"
-        android:textColor="@color/black"
+        android:gravity="center"
         android:text="Sign Up"
+        android:textColor="@color/black"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/signUpPass" />
 
@@ -102,4 +102,5 @@
         android:textSize="16sp"
         app:layout_constraintStart_toEndOf="@+id/textView15"
         app:layout_constraintTop_toBottomOf="@+id/signUpBtn" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
