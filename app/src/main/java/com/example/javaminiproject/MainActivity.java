@@ -28,8 +28,6 @@ public class MainActivity extends AppCompatActivity {
         dullCard = findViewById(R.id.dullCard);
         angryCard = findViewById(R.id.angryCard);
 
-
-
         //OnClickListeners
         profileBtn.setOnClickListener(new View.OnClickListener() {
             @Override

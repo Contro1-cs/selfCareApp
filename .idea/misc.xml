@@ -24,6 +24,7 @@
         <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/drawable/rectangle.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/drawable/rounded.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/drawable/sad_face_card.xml" value="0.4661458333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/drawable/sad_girl.xml" value="0.3375" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/drawable/semicircle.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/drawable/solid_circle.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/drawable/solid_rectangle.xml" value="0.27291666666666664" />
@@ -35,20 +36,20 @@
         <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/font/roboto_thin.xml" value="0.2869791666666667" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/font/sf_pro.xml" value="0.48020833333333335" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout-v28/activity_main.xml" value="1.0" />
-        <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_angry_page.xml" value="0.45" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_angry_page.xml" value="0.2" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_anxious.xml" value="0.264" />
-        <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_anxious_page.xml" value="0.4359375" />
-        <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_dull_page.xml" value="0.45" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_anxious_page.xml" value="0.192578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_dull_page.xml" value="0.29415274463007157" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_fearful.xml" value="0.264" />
-        <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_fearful_page.xml" value="0.45" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_fearful_page.xml" value="0.176" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_fed_up_card.xml" value="0.4359375" />
-        <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_fed_up_page.xml" value="0.45" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_fed_up_page.xml" value="0.192578125" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_log_in.xml" value="0.5502232142857143" />
-        <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_main.xml" value="0.4430769230769231" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_main.xml" value="0.25677083333333334" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_profile.xml" value="0.5125208681135225" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_profile_page.xml" value="0.4359375" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_sad.xml" value="0.25677083333333334" />
-        <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_sad_page.xml" value="0.45" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_sad_page.xml" value="0.192578125" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_sign_in.xml" value="0.8260869565217391" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_sign_up.xml" value="0.4226190476190476" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/JavaMiniProject/app/src/main/res/layout/activity_splash_screen.xml" value="0.45" />

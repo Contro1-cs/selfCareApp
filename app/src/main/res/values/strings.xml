@@ -10,7 +10,6 @@
     <string name="askLogOut">Log Out</string>
     <string name="sad">SAD</string>
     <string name="askLogin">Already a uer? Log in</string>
-    <string name="sadInfo">Being sad is different than being depressed even though it doesn’t sound so. A sad person knows the reason of his distress but a depressed person doesn’t. A sad person is: \n\n - I am sad because I failed the exams. \n\nHere an individual knows exactly that the source of his distress is failure in exams. To your surprise a depressed will be sad because of exams but would never be able to point out exactly what is his reason of distress which makes it even harder to deal with.</string>
     <string name="home">Home</string>
     <string name="how_do_you">How do you feel today?</string>
     <string name="describe_your_feeling">Describe your feeling</string>
@@ -30,6 +29,28 @@
     <string name="data">Enter you data</string>
     <string name="full_name">Full name</string>
     <string name="country">Country</string>
+    <string name="fedQues">What am frustrated but I don\'t know why?</string>
     <string name="let_s_go">Let\'s go</string>
+    <string name="quesSad">Why do I feel sad a lot lately?</string>
+    <string name="info">Info:</string>
+    <string name="youtube_video">Youtube Video</string>
+    <string name="doNDont">Do\'s and Don\'ts</string>
+    <string name="impLinks">Some useful links for you</string>
+    <string name="dullQues">Why do I not feel energetic anymore?</string>
+    <string name="angryQues">Why do I lose my temper so easily?</string>
+    <string name="anxiousQues">Why do I get anxiety in small things?</string>
+    <string name="angryInfo">Anger is a negative feeling state that is typically associated with hostile thoughts, physiological arousal and maladaptive behaviors. It usually develops in response to the unwanted actions of another person who is perceived to be disrespectful, demeaning, threatening or neglectful.</string>
+    <string name="dullInfo">Low mood is an emotional state characterised by sadness, anxiety, low self-esteem, tiredness, and frustration. In its most severe form it becomes an ongoing problem that impacts your daily life (usually referred to as depression). Sometimes low mood can be brought on by external factors such as the loss of a loved one, living with an illness, or stress at school, university, or work. However you can also experience low mood without there being an obvious external cause.</string>
+    <string name="anxiousDo">1.Calm Anxiety by Accepting It\n2.Recognize and understand your anxiety\n3.Don’t criticize yourself for those feelings\n4.Know that you can have anxiety and still function well\n5.Do a reality check\n6.hare your anxiety with someone you trust\n7.Redirect nervous energy\n8.Take a mental break\n9.If anxiety keeps you awake, get up</string>
+    <string name="anxiousInfo">Anxiety is a feeling of fear, dread, and uneasiness. It might cause you to sweat, feel restless and tense, and have a rapid heartbeat. It can be a normal reaction to stress. For example, you might feel anxious when faced with a difficult problem at work, before taking a test, or before making an important decision. It can help you to cope. The anxiety may give you a boost of energy or help you focus. But for people with anxiety disorders, the fear is not temporary and can be overwhelming.</string>
+    <string name="fedInfo">Frustration is an emotional response to stress. It\'s a common feeling that everyone will experience in their life. Some people experience frustration in the short-term — like a long wait in the grocery store — but for others, frustration can be long-term. The stressor can vary according to the individual, but some common stressors that lead to frustration are: Stress at work Pursuing a goal that you cannot attain Trying to solve a problem and not finding a solution</string>
+    <string name="fearAbt">Fear is a term that describes an emotional response in reaction to something that may be dangerous or threatening. On a day-to-day basis, many people experience fear ranging from nervousness about public speaking to intense phobias.</string>
+    <string name="fearDo">1. Take time out\n2. Breathe through panic3. Face your fears\n4. Imagine the worst\n5. Look at the evidence\n6. Don\'t try to be perfect\n7. Visualise a happy place\n8. Talk about it\n9. Go back to basics\n10. Reward yourself</string>
+    <string name="sadInfo">is part of life’s regular ups and downs, but it is not constant is a common reaction to an upset or setback, and is usually not a cause for worry is interrupted by times of laughter and contentment is an emotion that can involve negative thoughts but does not usually involve suicidal thoughts.</string>
+    <string name="sadDo">Have confidence that things will improve. You need to trust that your sad feelings will lessen with time and effort. Be honest with yourself and the people around you. Talk to someone whom you trust. Do things that you enjoy and that are good for you. Find ways to make your life more pleasurable: listen to music, go for a walk, read a book, call a friend. Is there something you can do about the cause of your sadness? Tackle one problem at a time. It doesn’t matter if you start with the biggest or smallest problem, just make a list and begin. If things are out of your control, talk to someone you trust about your options, or try to work on accepting the situation as it is.</string>
+    <string name="dullDo">1.Try talking about your feelings to a friend, family member, health professional or counsellor.\n2.Find out how to raise your self-esteen\n3. Consider peer support, where people use their experiences to help each other.\n4.Do not try to do everything at once; set small targets that you can easily achieve\n5. Do not focus on the things you cannot change – focus your time and energy into helping yourself feel better\n6. Try not to tell yourself that you\'re alone – most people feel low sometimes and support is available\n7. Try not to use alcohol, cigarettes, gambling or drugs to relieve a low mood. These can all contribute to poor mental health</string>
+    <string name="angryDo">dos and donts Do speak up when an issue is important to you Don\'t strike while the iron is hot Do take time out to think about the problem and clarify your position Don\'t make vague requests Do try to appreciate the fact that people are different. Don\'t tell another person what she or he thinks or feels or /\'should/\' think or feel. Don\'t participate in intellectual arguments that go nowhere Do try to avoid speaking through a third party. Don\'t expect change to come about from hit-and-run confrontations.</string>
+    <string name="moviesRec">Some movies that we recommend</string>
+    <string name="sadMovies">1.Zindagi na milegi dobara\n\n2.Ye jawani hai deewani</string>
 
 </resources>
